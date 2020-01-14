@@ -14,6 +14,7 @@ set relativenumber
 set ruler
 set ignorecase
 set showmatch
+set hlsearch
 set noerrorbells
 set novisualbell
 
